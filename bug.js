@@ -1,0 +1,1 @@
+I encountered an issue where Tailwind CSS classes weren't being applied correctly to my elements.  I had included the Tailwind directives in my `postcss.config.js` and ensured the `tailwind.config.js` file was correctly configured. However, despite a successful build process, styles weren't being generated in my CSS file. The browser's developer console showed no errors.
